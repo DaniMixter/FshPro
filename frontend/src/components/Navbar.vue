@@ -4,6 +4,9 @@
     <ul class="flex gap-4">
       <li><router-link to="/" class="hover:underline">Inicio</router-link></li>
       <li><router-link to="/login" class="hover:underline">Iniciar sesión</router-link></li>
+
     </ul>
   </nav>
 </template>
+
+
